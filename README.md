@@ -7,7 +7,7 @@
 
 I'm a passionate Fullstack Developer with a love for MERN(Still Learning)...
 
-- 🌱 I’m currently learning: JS and ReactJS
+- 🌱 I’m currently learning: Java, SpringBoot and Spring Framework 
 - 💬 Ask me about: React, JS, JAVA, DSA
 - 📫 How to reach me: kumbharshubham103@gmail.com
 
